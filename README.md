@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/64903011" width="200"/>
 </div>
 
-### Hi there 👋
+<h1>About me</h1>
 
 <!--
 **XavierCS-dev/XavierCS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
