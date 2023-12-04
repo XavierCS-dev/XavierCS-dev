@@ -1,4 +1,6 @@
-![avatar](https://avatars.githubusercontent.com/u/64903011)
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/64903011" width="200"/>
+</div>
 
 ### Hi there 👋
 
