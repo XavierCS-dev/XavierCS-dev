@@ -6,7 +6,7 @@
   <h2></h2>
 </div>
 
-## About me
+### About me
 
 <!--
 **XavierCS-dev/XavierCS-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
